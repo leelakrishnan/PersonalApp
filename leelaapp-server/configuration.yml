@@ -1,0 +1,58 @@
+database:
+  driverClass: com.mysql.jdbc.Driver
+  # Production
+  #user:
+  #password:
+  #url:
+  # Local
+  user: root
+  password: 
+  url: jdbc:mysql://localhost:3306/leelaapp?autoReconnect=true
+
+swagger:
+ resourcePackage: com.leela.resource
+
+# Avoid using the default 8080 port for RESTFul services
+server:
+  applicationConnectors:
+  - type: http 
+    port: 9000
+  adminConnectors:
+  - type: http
+    port: 9001
+
+smtpHost: smtp.gmail.com
+smtpPort: 587
+healthCheckEmailAddress:
+password:
+applicationVersionFilePath:
+
+logging:
+
+  # The default level of all loggers. Can be OFF, ERROR, WARN, INFO, DEBUG, TRACE, or ALL.
+  level: INFO
+
+  # Logger-specific levels.
+  loggers:
+
+    # Sets the level for 'com.computers.sun' to DEBUG.
+    com.computers.sun: DEBUG
+
+    # Redirects SQL logs to a separate file
+    org.hibernate.SQL:
+      level: DEBUG
+
+# Logback's Time Based Rolling Policy - archivedLogFilenamePattern: /tmp/application-%d{yyyy-MM-dd}.log.gz
+# Logback's Size and Time Based Rolling Policy -  archivedLogFilenamePattern: /tmp/application-%d{yyyy-MM-dd}-%i.log.gz
+# Logback's Fixed Window Rolling Policy -  archivedLogFilenamePattern: /tmp/application-%i.log.gz
+
+  appenders:
+    - type: console
+    - type: file
+      threshold: INFO
+      logFormat: "%-6level [%d{HH:mm:ss.SSS}] [%t] %logger{5} - %X{code} %msg %n"
+      currentLogFilename: /tmp/application.log
+      archivedLogFilenamePattern: /tmp/application-%d{yyyy-MM-dd}-%i.log.gz
+      archivedFileCount: 7
+      timeZone: UTC
+      maxFileSize: 10MB
