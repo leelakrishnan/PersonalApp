@@ -24,6 +24,12 @@
         <processorPath useClasspath="true" />
         <module name="jacoco-multi-coverage" />
       </profile>
+      <profile default="false" name="Annotation profile for leelaapp-webapp" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
       <profile default="false" name="Annotation profile for leelaapp-server" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -31,17 +37,19 @@
         <processorPath useClasspath="true" />
         <module name="leelaapp-server" />
       </profile>
-      <profile default="false" name="Annotation profile for leelaapp-webapp" enabled="true">
+      <profile default="false" name="Annotation profile for leelaapp-webapps" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="leelaapp-webapps" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jacoco-multi-coverage" target="1.7" />
       <module name="leelaapp-server" target="1.7" />
       <module name="leelaapp-webapp" target="1.7" />
+      <module name="leelaapp-webapps" target="1.7" />
       <module name="myapp" target="1.7" />
     </bytecodeTargetLevel>
   </component>

@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/jacoco-multi-coverage" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leelaapp-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/leelaapp-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leelaapp-webapps" charset="UTF-8" />
   </component>
 </project>

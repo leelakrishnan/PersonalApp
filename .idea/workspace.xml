@@ -1,58 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e59fedf-54b9-4d4c-9b95-478781182683" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details-header-backup/effort-details-header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details-header/effort-details-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details-header-backup/effort-details-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details-header.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details/effort-details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-search-grid/effort-search-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-search-grid/effort-search-grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-search-grid.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/effort-details/lift-notes.html" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/markdown.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/me-search/me-search-campaign.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/me-search/me-search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/me-search/me-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/me-search.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SfdcEffort/app/angular-ui-grid/ui-grid.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCCommons/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/C:\Temp\loging.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapp" afterPath="$PROJECT_DIR$/leelaapp-webapp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/.gitignore" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/java/com/sc/persistence/model/user/User.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/java/com/sc/persistence/model/user/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/model/UserDto.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/model/UserDto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/mapper/UserMapper.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/mapper/UserMapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/java/com/sc/persistence/repository/UserRepository.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/java/com/sc/persistence/repository/UserRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/service/UserService.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/serviceimpl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/src/main/java/com/sc/service/serviceimpl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/test/java/com/sc/persistence/repository/UserTest.java" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/test/java/com/sc/persistence/repository/UserTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awsdev.properties" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awsdev.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awsprod.properties" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awsprod.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awstest.properties" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-awstest.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-default.properties" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-default.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-dev.properties" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCPersistence/src/main/resources/META-INF/spring/database-dev.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/pom.xml" afterPath="$PROJECT_DIR$/../../SocialConnect/SCAppServices/SCService/pom.xml" />
+    <list default="true" id="6db06a9b-1e66-4bfa-844e-076441f0749f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leelaapp-webapps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leelaapp-webapps/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/leelaapp-webapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leelaapp-webapps/leelaapp-webapps.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/web/WEB-INF/web.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leelaapp-webapp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myapp.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/.gitignore" afterPath="$PROJECT_DIR$/leelaapp-webapps/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/java/com/leela/app/AnguarJSWebApp.java" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/java/com/leela/app/AnguarJSWebApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/BrandController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/BrandController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/BusinessTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/BusinessTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/CompanyController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/CompanyController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/DashboardController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/DashboardController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderStatusController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderStatusController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderSubTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderSubTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/OrderTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/PaymentTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/PaymentTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductCategoryController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductCategoryController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductCategorySpecificationController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductCategorySpecificationController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSpecificationController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSpecificationController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSpecificationGroupController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSpecificationGroupController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSubCategoryController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSubCategoryController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSubTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductSubTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductTypeController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ProductTypeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ShippingOptionController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/ShippingOptionController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/SupplierController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/SupplierController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/UserController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/UserController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/UserStatusController.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/controllers/UserStatusController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/brand.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/brand.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/business_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/business_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/calendar.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/calendar.min.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/calendar.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/company.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/company.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-md.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-md.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-md.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-md.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-rounded.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-rounded.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-rounded.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components-rounded.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/components.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/dashboard.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/leelaapp-webapps/dependency-reduced-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/directives.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/directives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/footer.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/header.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/inbox.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/inbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/inbox.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/inbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/inbox.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/inbox.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/inbox.min.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/inbox.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/main.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_status.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_status.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_sub_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_sub_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/order_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/payment_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/payment_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins-md.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins-md.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins-md.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins-md.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/global/css/plugins.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/pom.xml" afterPath="$PROJECT_DIR$/leelaapp-webapps/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_category.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_category.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_category_specification.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_category_specification.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_specification.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_specification.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_specification_group.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_specification_group.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_sub_category.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_sub_category.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_sub_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_sub_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_type.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/product_type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/shipping_option.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/shipping_option.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/sidebar.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/tpl/sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/supplier.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/supplier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/ticket.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/ticket.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/ticket.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/ticket.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo-2.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo-2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo-2.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo-2.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo-2.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo-2.min.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo-2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo.min.css" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/css/todo.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo.min.js" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/assets/apps/scripts/todo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/user.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/user_status.html" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/views/user_status.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/leelaapp-webapps/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myapp.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/jacoco-multi-coverage/target/" />
-    <ignored path="$PROJECT_DIR$/leelaapp-server/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/leelaapp-webapp/target/" />
+    <ignored path="$PROJECT_DIR$/leelaapp-server/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/leelaapp-webapps/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +122,28 @@
     <favorites_list name="myapp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42492917">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leelaapp-webapps/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,19 +156,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jacoco-multi-coverage/pom.xml" />
-        <option value="$PROJECT_DIR$/leelaapp-server/pom.xml" />
-        <option value="$PROJECT_DIR$/PersonalSite/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/leelaapp-server/src/main/java/com/svsitsolutions/application/SunComputersApplication.java" />
-        <option value="$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/amazon/AmazonClientHelper.java" />
-        <option value="$PROJECT_DIR$/leelaapp-server/configuration.yml" />
-        <option value="$PROJECT_DIR$/leelaapp-server/pubnub.properties" />
-        <option value="$PROJECT_DIR$/jacoco-multi-coverage/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/leelaapp-webapp/pom.xml" />
-        <option value="$PROJECT_DIR$/leelaapp-webapp/src/main/java/com/leela/app/AnguarJSWebApp.java" />
-        <option value="$PROJECT_DIR$/leelaapp-webapp/.gitignore" />
+        <option value="$PROJECT_DIR$/leelaapp-webapps/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -113,9 +177,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="833" />
+    <option name="x" value="432" />
+    <option name="y" value="383" />
+    <option name="width" value="1008" />
+    <option name="height" value="473" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -141,7 +206,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,35 +235,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="leelaapp-webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leelaapp-webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="leelaapp-webapps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,10 +252,13 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Maven.Install">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -496,18 +542,36 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/pom.xml" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="false" name="Clean" type="MavenRunConfiguration" factoryName="Maven">
@@ -534,78 +598,53 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="false" name="Install" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="install" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Maven.Clean" />
-      <item index="1" class="java.lang.String" itemvalue="Maven.Install" />
+      <item index="0" class="java.lang.String" itemvalue="Maven.Install" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.Clean" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e59fedf-54b9-4d4c-9b95-478781182683" name="Default" comment="" />
-      <created>1455514271992</created>
+      <changelist id="6db06a9b-1e66-4bfa-844e-076441f0749f" name="Default" comment="" />
+      <created>1455521914844</created>
       <option name="number" value="Default" />
-      <updated>1455514271992</updated>
-      <workItem from="1455514273141" duration="2619000" />
-      <workItem from="1455517664630" duration="1160000" />
+      <updated>1455521914844</updated>
+      <workItem from="1455521915997" duration="948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3779000" />
+    <option name="totallyTimeSpent" value="948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="833" extended-state="0" />
+    <frame x="432" y="383" width="1008" height="473" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36842105" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.71653545" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39921466" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34008098" sideWeight="0.51287556" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.49722221" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.49722221" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46494994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34008098" sideWeight="0.48712447" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.54244304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33975902" sideWeight="0.48712447" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928476" sideWeight="0.49722221" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -617,65 +656,7 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/pubnub.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/start_server.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/leelaapp-server.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/dependency-reduced-pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -684,206 +665,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.gitignore">
+    <entry file="file://$PROJECT_DIR$/leelaapp-webapps/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/configuration/APIConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.settings/org.eclipse.core.resources.prefs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.settings/org.eclipse.jdt.core.prefs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.settings/org.eclipse.m2e.core.prefs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/jacoco-multi-coverage.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.project">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="76" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/amazon/AmazonClientHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/application/SunComputersApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/resource/ElasticSearchResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/src/main/java/com/leela/configuration/APIConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/pubnub.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/start_server.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/leelaapp-server.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/dependency-reduced-pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jacoco-multi-coverage/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09118541">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.42492917">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leelaapp-server/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13677812">
-          <caret line="3" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gitignore_global">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jacoco-multi-coverage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -8,10 +8,9 @@
 	<name>Leela Subramaniam</name>
 	<modules>
 		<module>leelaapp-server</module>
-		<module>leelaapp-webapp</module>
+		<module>leelaapp-webapps</module>
 		<module>jacoco-multi-coverage</module>
 	</modules>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>

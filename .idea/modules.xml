@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jacoco-multi-coverage/jacoco-multi-coverage.iml" filepath="$PROJECT_DIR$/jacoco-multi-coverage/jacoco-multi-coverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/leelaapp-server/leelaapp-server.iml" filepath="$PROJECT_DIR$/leelaapp-server/leelaapp-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leelaapp-webapps/leelaapp-webapps.iml" filepath="$PROJECT_DIR$/leelaapp-webapps/leelaapp-webapps.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapp.iml" filepath="$PROJECT_DIR$/myapp.iml" />
     </modules>
   </component>
