@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+jacoco-multi-coverage/.settings
+jacoco-multi-coverage/target
+leelaapp-server/target
+leelaapp-server/.idea
